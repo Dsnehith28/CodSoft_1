@@ -39,7 +39,7 @@ Make sure you have Java (JDK) installed.
 
 Clone this repository:
 
-git clone https://github.com/yourusername/NumberGame.git
+git clone https://github.com/Dsnehith28/NumberGame.git
 cd NumberGame
 
 
